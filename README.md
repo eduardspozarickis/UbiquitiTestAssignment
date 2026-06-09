@@ -8,6 +8,7 @@ Libraries:
 - Retrofit - usual library for communication with API;
 - Room - usual library to store data locally;
 - Coil - recommended library in AndroidDevelopers for image loading in Compose, tried it out to see how it works.
+
 Potential improvements that could be done:
 - Firebase - analytics on issues/crashes, app performace, user engagement;
 - detekt - Kotlin code analysis: detect code smells.
